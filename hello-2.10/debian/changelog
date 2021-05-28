@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu3) experimental; urgency=medium
+
+  * Add a testing message while installation. 
+
+ -- Edward Lin <eva70881@gmail.com>  Fri, 28 May 2021 12:38:34 +0800
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
